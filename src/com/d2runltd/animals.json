@@ -1,0 +1,45 @@
+[
+  {
+    "animalName":"Lion",
+    "animalId":1,
+    "cageNo":1,
+    "trainerName":"D2R",
+    "isHungry":false,
+    "isHealthy":true,
+    "status":"resting",
+    "imageLoc":"res\\lion.jpg"
+  },
+
+  {
+    "animalName":"Elephant",
+    "animalId":2,
+    "cageNo":2,
+    "trainerName":"Rohan",
+    "isHungry":false,
+    "isHealthy":true,
+    "status":"walking",
+    "imageLoc":"res\\elephant.jpg"
+  },
+
+  {
+    "animalName":"Monkey",
+    "animalId":3,
+    "cageNo":3,
+    "trainerName":"Abhishek",
+    "isHungry":false,
+    "isHealthy":true,
+    "status":"jumping",
+    "imageLoc":"res\\monkey.jpg"
+  },
+
+  {
+    "animalName":"Kraken",
+    "animalId":4,
+    "cageNo":4,
+    "trainerName":"Soorya",
+    "isHungry":false,
+    "isHealthy":true,
+    "status":"resting",
+    "imageLoc":"res\\Kraken.jpg"
+  }
+]
